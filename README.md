@@ -16,12 +16,12 @@ Here are some ideas to get you started:
  -->
  ![](https://scontent.fdac59-1.fna.fbcdn.net/v/t1.6435-9/89032797_2630757040512823_9110216609431027712_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=19026a&_nc_ohc=Ak5NMTaMZVMAX_htu9X&_nc_ht=scontent.fdac59-1.fna&oh=cbac07c3ecc516001b7e4b513e2a27c8&oe=6154AB8A)
 ### Hi there,
-This is <b>Md Mohimenol Islam Munna</b>. A full stack web developer.</br>
+This is <b>MD Fahad Hossain</b>. A full stack web developer but mostly works on Backend.</br>
 Skills: <b>Django</b> /<b> Django REST FrameWork</b> /<b> Frappe</b> /<b> Folium</b> /<b> Django Channels</b> <b> ERPNext</b> <b> Web Scrapping</b> <b> Vue.js</b>
 <b> React.js</b> <b> Bootstrap</b>
-- 🔭 I’m currently working on Web Development and Mobile Application.  
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about web and mobile application development. 
+- 🔭 I’m currently working on Web Development.  
+- 🌱 I’m currently learning Django Advanced Topics. 
+- 💬 Ask me about web application development. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Fahad-CSE16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/Fahad-CSE16/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/fahad.cse16)  
 
